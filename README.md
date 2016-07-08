@@ -4,7 +4,7 @@
 
 A Bash script to convert a list of CIDR formatted IP addresses to ASA compatible object groups.
 
-### Installtion Notes / Prerequisites
+### Installation Notes / Prerequisites
 
 Requires ipcalc program.
 
